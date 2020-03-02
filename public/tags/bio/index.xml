@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bio on Shuo Yan</title>
+    <link>/tags/bio/</link>
+    <description>Recent content in bio on Shuo Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bio</title>
+      <link>/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello! My name is Shuo Yan. I am a student in University of Illinois at Urbana Champaign with a double major of psychology and statistics.
+My interest lies in clinical psychology. My career goal is to be a psychiatrist or a conselor. I also have strong passions in math and statistics.
+I am currently a research assistent in BEAST Lab which focuses on how emotion affects reasoning.</description>
+    </item>
+    
+  </channel>
+</rss>

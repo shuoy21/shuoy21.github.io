@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>/categories/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
@@ -30,20 +30,11 @@
     </item>
     
     <item>
-      <title>articles</title>
-      <link>/categories/articles/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/categories/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ad</title>
-      <link>/categories/ad/</link>
+      <title>blog</title>
+      <link>/categories/blog/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/categories/ad/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     

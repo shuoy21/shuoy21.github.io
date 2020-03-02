@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Shuo Yan</title>
+    <link>/categories/blog/</link>
+    <description>Recent content in blog on Shuo Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beast Lab</title>
+      <link>/blog/first/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description>Beast Lab is a lab in Psychology Department of Univerisity of Illinois. We focus on psychopathology studies.
+A project we are working on is about how mental disorders affect reasoning. Our hypothesis is that people with depression will selectively inhibit infomation received. During experiment, we record how people with depression may take different response time to information provided for analogies.</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>/resume/resume/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/resume/resume/</guid>
+      <description>&amp;ldquo;/resume.pdf/&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>handwriting recognizer</title>
+      <link>/blog/second/</link>
+      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/blog/second/</guid>
+      <description>I wrote this handwriting recognizer which recognizes handwriting dragged on the laptop touch bar.
+To use it, simply drag a letter on your touch bar and the program tells you what you&amp;rsquo;ve just written.
+It&amp;rsquo;s based on naive bayes algorithm. If you are interested, please check out handwriting recognizer</description>
+    </item>
+    
+  </channel>
+</rss>

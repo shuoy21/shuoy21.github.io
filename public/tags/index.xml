@@ -39,56 +39,29 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>/tags/about/</link>
+      <title>About Me</title>
+      <link>/tags/about-me/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/tags/about/</guid>
+      <guid>/tags/about-me/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>aviato</title>
-      <link>/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/aviato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bachman</title>
-      <link>/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/bachman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pied piper</title>
-      <link>/tags/pied-piper/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/pied-piper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hardware</title>
-      <link>/tags/hardware/</link>
+      <title>blog</title>
+      <link>/tags/blog/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/tags/hardware/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ceo</title>
-      <link>/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      <title>resume</title>
+      <link>/tags/resume/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/tags/ceo/</guid>
+      <guid>/tags/resume/</guid>
       <description></description>
     </item>
     
