@@ -12,4 +12,4 @@ tags:
 - resume
 title: resume
 ---
-"/resume.pdf/"
+resume [resume](/static/Resume.pdf)
