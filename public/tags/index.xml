@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shuo Yan</title>
-    <link>/shuoy21.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Shuo Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     
-	<atom:link href="/shuoy21.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>belson</title>
-      <link>/shuoy21.github.io/tags/belson/</link>
+      <link>/tags/belson/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/belson/</guid>
+      <guid>/tags/belson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gavin</title>
-      <link>/shuoy21.github.io/tags/gavin/</link>
+      <link>/tags/gavin/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/gavin/</guid>
+      <guid>/tags/gavin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hooli</title>
-      <link>/shuoy21.github.io/tags/hooli/</link>
+      <link>/tags/hooli/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/hooli/</guid>
+      <guid>/tags/hooli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>/shuoy21.github.io/tags/about/</link>
+      <link>/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/about/</guid>
+      <guid>/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aviato</title>
-      <link>/shuoy21.github.io/tags/aviato/</link>
+      <link>/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/aviato/</guid>
+      <guid>/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bachman</title>
-      <link>/shuoy21.github.io/tags/bachman/</link>
+      <link>/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/bachman/</guid>
+      <guid>/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pied piper</title>
-      <link>/shuoy21.github.io/tags/pied-piper/</link>
+      <link>/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/pied-piper/</guid>
+      <guid>/tags/pied-piper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hardware</title>
-      <link>/shuoy21.github.io/tags/hardware/</link>
+      <link>/tags/hardware/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/hardware/</guid>
+      <guid>/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ceo</title>
-      <link>/shuoy21.github.io/tags/ceo/</link>
+      <link>/tags/ceo/</link>
       <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/shuoy21.github.io/tags/ceo/</guid>
+      <guid>/tags/ceo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/shuoy21.github.io/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/shuoy21.github.io/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/shuoy21.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/shuoy21.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/shuoy21.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/shuoy21.github.io/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
