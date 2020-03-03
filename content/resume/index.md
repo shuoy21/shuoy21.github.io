@@ -12,6 +12,6 @@ tags:
 - resume
 title: Resume
 ---
-[resume](../static/Resume.pdf)
+[resume](resume_website.html)
 
 or download [here](https://github.com/shuoy21/shuoy21.github.io/blob/master/static/Resume.pdf)
