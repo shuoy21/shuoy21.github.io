@@ -10,6 +10,8 @@ showpagemeta: true
 slug: ""
 tags:
 - resume
-title: resume
+title: Resume
 ---
-resume [resume](/static/Resume.pdf)
+[resume](../static/Resume.pdf)
+
+or download [here](https://github.com/shuoy21/shuoy21.github.io/blob/master/static/Resume.pdf)

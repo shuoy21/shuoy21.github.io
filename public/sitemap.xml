@@ -78,26 +78,6 @@
   </url>
   
   <url>
-    <loc>/tags/resume/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resume/resume/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resume/resume.utf8/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resume/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/second/</loc>
     <lastmod>2016-10-01T16:59:13-04:00</lastmod>
   </url>
@@ -125,6 +105,11 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resume/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

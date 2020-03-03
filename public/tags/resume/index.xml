@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>resume</title>
-      <link>/resume/resume/</link>
+      <title>Resume</title>
+      <link>/resume/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/resume/resume/</guid>
-      <description>resume resume</description>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>/resume/resume.utf8/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/resume/resume.utf8/</guid>
-      <description>resume resume</description>
+      <guid>/resume/</guid>
+      <description>resume
+or download here</description>
     </item>
     
   </channel>

@@ -43,24 +43,6 @@ A project we are working on is about how mental disorders affect reasoning. Our 
     </item>
     
     <item>
-      <title>resume</title>
-      <link>/resume/resume/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/resume/resume/</guid>
-      <description>resume resume</description>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>/resume/resume.utf8/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/resume/resume.utf8/</guid>
-      <description>resume resume</description>
-    </item>
-    
-    <item>
       <title>handwriting recognizer</title>
       <link>/blog/second/</link>
       <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
@@ -80,6 +62,15 @@ It&amp;rsquo;s based on naive bayes algorithm. If you are interested, please che
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description></description>
     </item>
     
   </channel>
