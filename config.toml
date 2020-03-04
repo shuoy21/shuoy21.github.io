@@ -15,6 +15,7 @@ title = "Shuo Yan"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
+disqusShortname = "Shuo"
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
