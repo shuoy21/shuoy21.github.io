@@ -34,8 +34,8 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "/shuoy21/"
-linkedin = "shuo-yan-2107b31a2/"
+github = "shuoy21"
+linkedin = "shuo-yan-2107b31a2"
 
 
 ## Extras
