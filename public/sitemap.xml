@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/belson/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
@@ -18,22 +18,12 @@
   </url>
   
   <url>
-    <loc>/tags/gavin/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hooli/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/third/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/propaganda/</loc>
+    <loc>/tags/stat385/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
@@ -73,11 +63,6 @@
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/resume/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url>
@@ -90,31 +75,6 @@
   <url>
     <loc>/blog/second/</loc>
     <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>

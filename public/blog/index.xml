@@ -12,13 +12,14 @@
     
     
     <item>
-      <title>Hooli’s Hot New Hardware</title>
+      <title>My progress on STAT385</title>
       <link>/blog/third/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+      <description>I&amp;rsquo;m currently taking STAT385: Statistics Programming Methods
+We talked about some basic R data types, control flow, loops as well as plotting!
+The current project it to build a personal project, which is this one!</description>
     </item>
     
     <item>
@@ -40,17 +41,6 @@ A project we are working on is about how mental disorders affect reasoning. Our 
       <description>I wrote this handwriting recognizer which recognizes handwriting dragged on the laptop touch bar.
 To use it, simply drag a letter on your touch bar and the program tells you what you&amp;rsquo;ve just written.
 It&amp;rsquo;s based on naive bayes algorithm. If you are interested, please check out handwriting recognizer</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>
