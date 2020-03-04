@@ -17,3 +17,4 @@ My interest lies in clinical psychology. My career goal is to be a psychiatrist 
 
 I am currently a research assistent in BEAST Lab which focuses on how emotion affects reasoning.
 
+
