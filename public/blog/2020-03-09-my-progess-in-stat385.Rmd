@@ -1,0 +1,11 @@
+---
+title: My Progess in STAT385
+author: Shuo Yan
+date: '2020-03-09'
+slug: my-progess-in-stat385
+categories: []
+tags: []
+comments: no
+showcomments: yes
+showpagemeta: yes
+---

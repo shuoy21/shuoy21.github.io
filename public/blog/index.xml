@@ -6,20 +6,23 @@
     <description>Recent content in Blogs on Shuo Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My progress on STAT385</title>
-      <link>/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>My Progress in STAT385</title>
+      <link>/blog/stat385/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/third/</guid>
-      <description>I&amp;rsquo;m currently taking STAT385: Statistics Programming Methods
-We talked about some basic R data types, control flow, loops as well as plotting!
-The current project it to build a personal project, which is this one!</description>
+      <guid>/blog/stat385/</guid>
+      <description>I’m currently taking STAT385: Statistics Programming Methods
+We learned some basic R data types, control flow, loops as well as plotting!
+Here are some examples!
+plotting
+hist(x = iris$Sepal.Length, main = &amp;quot;histogram of petal length&amp;quot;, freq = FALSE, xlab = &amp;quot;petal length&amp;quot;, border = &amp;quot;dodgerblue&amp;quot;, breaks = seq(from = 4, to = 8, by = 0.2)) grid() control flow
+temp = function(bet, amount){ number = sample(0:36, 1) color = wheel[number + 1, 2] if(is.</description>
     </item>
     
     <item>

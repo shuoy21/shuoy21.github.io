@@ -13,7 +13,7 @@
 <base href="/">
 
 <title>
-  Shuo Yan - Beast Lab 
+  Shuo Yan - My Progress in STAT385 
 </title>
 
 <meta name="generator" content="Hugo 0.65.3" />
@@ -44,13 +44,13 @@
 
 
 <header class="row text-left title">
-  <h1 class="title">Beast Lab</h1>
+  <h1 class="title">My Progress in STAT385</h1>
 </header>
 <section id="category-pane" class="row meta">
   
   <div class="col-md-12">
     <h6 class="text-left meta">
-        PUBLISHED ON OCT 2, 2016 
+        PUBLISHED ON MAR 9, 2020 
       
       
       
@@ -68,8 +68,61 @@
 <section id="content-pane" class="row">
   <div class="col-md-12 text-justify content">
     
-    <p>Beast Lab is a lab in Psychology Department of Univerisity of Illinois. We focus on psychopathology studies.</p>
-<p>A project we are working on is about how mental disorders affect reasoning. Our hypothesis is that people with depression will selectively inhibit infomation received. During experiment, we record how people with depression may take different response time to information provided for analogies.</p>
+    
+
+
+<p>I’m currently taking STAT385: Statistics Programming Methods</p>
+<p>We learned some basic R data types, control flow, loops as well as plotting!</p>
+<p>Here are some examples!</p>
+<p><strong>plotting</strong></p>
+<pre class="r"><code>hist(x = iris$Sepal.Length, main = &quot;histogram of petal length&quot;, freq = FALSE, xlab = &quot;petal length&quot;, border = &quot;dodgerblue&quot;, breaks = seq(from = 4, to = 8, by = 0.2))
+grid()</code></pre>
+<p><img src="/blog/stat385_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p><strong>control flow</strong></p>
+<pre class="r"><code>temp = function(bet, amount){
+  number = sample(0:36, 1)
+  color = wheel[number + 1, 2]
+  
+  if(is.numeric(bet)){
+    if(bet == number){
+      amount = amount * 36
+    } else{
+      amount = -amount
+    }
+  } else if(bet == &quot;red&quot; || bet == &quot;black&quot;){
+    if(bet != color){
+      amount = -amount
+    }
+  } else if(bet == &quot;low&quot; || bet == &quot;high&quot;){
+    if(number &lt;= 18 &amp; bet == &quot;high&quot;){
+      amoung = -amount
+    } else if(number &gt; 18 &amp; bet == &quot;low&quot;){
+      amount = -amount
+    }
+  } else if((bet == &quot;even&quot; || bet == &quot;odd&quot;)){
+    if(number == 0){
+      amount = -amount
+    } else if ((bet == &quot;even&quot; &amp; number %% 2 == 1)){
+      amount = -amount
+    } else if(bet == &quot;odd&quot; &amp; number %% 2 == 0) {
+      amount = -amount
+    }
+  } else if(bet == &quot;first&quot; || bet == &quot;second&quot; || bet == &quot;thrid&quot;){
+    if ((bet == &quot;first&quot; &amp; number &lt;= 12 &amp; number &gt; 0) 
+        || (bet == &quot;second&quot; &amp; number &lt;= 24 &amp; number &gt; 12) 
+        || (bet == &quot;third&quot; &amp; number &lt;= 36 &amp; number &gt; 24)){
+      amount = 2 * amount
+    } else{
+      amount = -amount
+    }
+  }
+  
+  amount
+}</code></pre>
+<p><strong>data types</strong></p>
+<pre class="r"><code>setosa_iris = iris[iris$Species == &#39;setosa&#39;,]
+median(setosa_iris$Sepal.Width)</code></pre>
+<pre><code>## [1] 3.4</code></pre>
 
   </div>
 </section>
@@ -121,13 +174,11 @@
 <section id="menu-pane" class="row menu text-center">
   
   
-  <span><a class="menu-item" href="/blog/second/">&lt; prev | </a></span>
+  <span><a class="menu-item" href="/blog/first/">&lt; prev | </a></span>
   
   
   <span><a class="menu-item" href="/blog">blog</a></span>
   
-  
-  <span><a class="menu-item" href="/blog/stat385/"> | next &gt;</a></span>
   
   
   <h4 class="text-center"><a class="menu-item" href="/">home</a></h4>

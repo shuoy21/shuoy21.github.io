@@ -1,0 +1,77 @@
+---
+title: My Progress in STAT385
+author: Shuo Yan
+date: '2020-03-09'
+slug: stat385
+categories:
+  - blog
+tags:
+  - blog
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+I'm currently taking STAT385: Statistics Programming Methods
+
+We learned some basic R data types, control flow, loops as well as plotting!
+
+Here are some examples!
+
+
+**plotting**
+```{r}
+hist(x = iris$Sepal.Length, main = "histogram of petal length", freq = FALSE, xlab = "petal length", border = "dodgerblue", breaks = seq(from = 4, to = 8, by = 0.2))
+grid()
+```
+
+**control flow**
+```{r}
+temp = function(bet, amount){
+  number = sample(0:36, 1)
+  color = wheel[number + 1, 2]
+  
+  if(is.numeric(bet)){
+    if(bet == number){
+      amount = amount * 36
+    } else{
+      amount = -amount
+    }
+  } else if(bet == "red" || bet == "black"){
+    if(bet != color){
+      amount = -amount
+    }
+  } else if(bet == "low" || bet == "high"){
+    if(number <= 18 & bet == "high"){
+      amoung = -amount
+    } else if(number > 18 & bet == "low"){
+      amount = -amount
+    }
+  } else if((bet == "even" || bet == "odd")){
+    if(number == 0){
+      amount = -amount
+    } else if ((bet == "even" & number %% 2 == 1)){
+      amount = -amount
+    } else if(bet == "odd" & number %% 2 == 0) {
+      amount = -amount
+    }
+  } else if(bet == "first" || bet == "second" || bet == "thrid"){
+    if ((bet == "first" & number <= 12 & number > 0) 
+        || (bet == "second" & number <= 24 & number > 12) 
+        || (bet == "third" & number <= 36 & number > 24)){
+      amount = 2 * amount
+    } else{
+      amount = -amount
+    }
+  }
+  
+  amount
+}
+
+```
+
+**data types**
+```{r}
+setosa_iris = iris[iris$Species == 'setosa',]
+median(setosa_iris$Sepal.Width)
+```

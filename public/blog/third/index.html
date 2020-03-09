@@ -70,7 +70,11 @@
     
     <p>I&rsquo;m currently taking STAT385: Statistics Programming Methods</p>
 <p>We talked about some basic R data types, control flow, loops as well as plotting!</p>
-<p>The current project it to build a personal project, which is this one!</p>
+<pre><code class="language-{r}" data-lang="{r}">setosa_iris = iris[iris$Species == 'setosa',]
+median(setosa_iris$Sepal.Width)
+</code></pre><pre><code class="language-{r}" data-lang="{r}">hist(x = iris$Sepal.Length, main = &quot;histogram of petal length&quot;, freq = FALSE, xlab = &quot;petal length&quot;, border = &quot;dodgerblue&quot;, breaks = seq(from = 4, to = 8, by = 0.2))
+grid()
+</code></pre><p>The current project it to build a personal project, which is this one!</p>
 
   </div>
 </section>
@@ -104,6 +108,8 @@
   
   <span><a class="menu-item" href="/blog">blog</a></span>
   
+  
+  <span><a class="menu-item" href="/blog/stat385/"> | next &gt;</a></span>
   
   
   <h4 class="text-center"><a class="menu-item" href="/">home</a></h4>
