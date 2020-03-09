@@ -17,3 +17,5 @@ title: Beast Lab
 Beast Lab is a lab in Psychology Department of Univerisity of Illinois. We focus on psychopathology studies.
 
 A project we are working on is about how mental disorders affect reasoning. Our hypothesis is that people with depression will selectively inhibit infomation received. During experiment, we record how people with depression may take different response time to information provided for analogies.
+
+This lab is supervised by [Ariana Leon](https://psychology.illinois.edu/directory/profile/arianac3)
