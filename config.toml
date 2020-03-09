@@ -35,7 +35,8 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "shuoy21"
-linkedin = "shuo-yan-2107b31a2"
+linkedin = "shuo-yan-2107b31a2"\
+email = "shuoy2@illinois"
 
 
 ## Extras
