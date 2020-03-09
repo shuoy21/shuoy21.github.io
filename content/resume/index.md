@@ -13,4 +13,4 @@ title: Resume
 
 Please have a look of my [Resume](../../Resume.pdf)
 
-Or [download](https://github.com/shuoy21/shuoy21.github.io/blob/master/static/img/Resume.pdf)
+Or [download](https://github.com/shuoy21/shuoy21.github.io/blob/master/public/resm/Resume.pdf)
